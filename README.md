@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm an Front-End Developer
 
-Front-End Development
+
 
    
 
