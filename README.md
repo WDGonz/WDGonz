@@ -5,4 +5,4 @@
    
 Technologies That I Know👨🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,react,git,github,discord,figma)](https://skillicons.dev)
-[![My Skills](https://avatars.githubusercontent.com/u/48276018?s=48&v=4)
+![My Skills](https://avatars.githubusercontent.com/u/48276018?s=48&v=4)
